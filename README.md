@@ -16,6 +16,8 @@ ouvrez_les_guillemets@peertube.parleur.net
 parleur@peertube.parleur.net
 
 monsieurb@video.monsieurbidouille.fr
+
+lemediatv@video.lemediatv.fr
 ## English
 
 gnome@peertube.video
