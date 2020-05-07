@@ -18,6 +18,8 @@ parleur@peertube.parleur.net
 monsieurb@video.monsieurbidouille.fr
 
 lemediatv@video.lemediatv.fr
+
+cemeapdll@videos.cemea.org
 ## English
 
 gnome@peertube.video
@@ -35,6 +37,16 @@ fsfe@peertube.social
 contrapoints@peertube.parleur.net
 
 savjee@peertube.social
+
+blender@video.blender.org
+
+gabyweber@peertube.ch (also Spanish and German)
+
+apconf@conf.tube
+
+foss_north@conf.tube
+
+nextcloud@conf.tube
 ## Other
 divert@peertube.social
 ## Politics
