@@ -22,6 +22,8 @@ Hoping to create a somewhat complete list of all quality stuff on the Peertube f
 
 [cemeapdll@videos.cemea.org](https://videos.cemea.org/accounts/cemeapd11)
 
+[linguisticae@peertube.social](https://peertube.social/video-channels/linguisticae/)
+
 ## English
 
 [gnome@peertube.video](https://peertube.video/accounts/gnome/video-channels)
