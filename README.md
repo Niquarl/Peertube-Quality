@@ -50,6 +50,10 @@ Hoping to create a somewhat complete list of all quality stuff on the Peertube f
 
 [nextcloud@conf.tube](https://conf.tube/accounts/nextcloud)
 
+[boilingsteam@peertube.linuxrocks.online](https://peertube.linuxrocks.online/video-channels/boilingsteam/)
+
+[techlore@tube.privacytools.io](https://tube.privacytools.io/accounts/techlore)
+
 ## Other
 
 [divert@peertube.social](https://peertube.social/accounts/divert/video-channels)
