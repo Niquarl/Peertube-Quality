@@ -60,6 +60,8 @@ Hoping to create a somewhat complete list of all quality stuff on the Peertube f
 
 [divert@peertube.social](https://peertube.social/accounts/divert/video-channels)
 
+[arcanebanjo@peertube.social](https://peertube.social/accounts/arcanebanjo/)
+
 ## Politics
 
 Framasoft (the people behind Peertube) consider free software political. I agree. This list is not meant as to show only groups that I 'endorse' or 'support' (by voting, tooting, organising) but rather to show that political parties do not have to host video on Youtube (or dailymotion) but can do so on Peertube, wether on friendly instances or their own. 
@@ -67,6 +69,7 @@ Framasoft (the people behind Peertube) consider free software political. I agree
 *I will however not share links to fascist or others who promote hate and discrimination.*
 
 [ucl@peertube.social](https://peertube.social/accounts/ucl)
+
 [jef_rlp@peertube.social](https://peertube.social/accounts/jef_rlp/video-channels)
 
 
