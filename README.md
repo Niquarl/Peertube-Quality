@@ -25,6 +25,8 @@ Hoping to create a somewhat complete list of all quality stuff on the PeerTube f
 
 [linguisticae@peertube.social](https://peertube.social/video-channels/linguisticae/)
 
+[passesauvage_channel@skeptikon.fr](https://skeptikon.fr/video-channels/passesauvage_channel/)
+
 ## English
 
 [gnome@peertube.video](https://peertube.video/accounts/gnome/video-channels)
