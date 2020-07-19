@@ -76,6 +76,9 @@ Framasoft (the people behind Peertube) consider free software political. I agree
 [jef_rlp@peertube.social](https://peertube.social/accounts/jef_rlp/video-channels)
 
 
+# Choose your instance
+
+If your new to PeerTube then the different instances might scare you at first but it's easy! It's just like email where you have gmail, hotmail, protonmail, yahoomail etc. You can see a list of instances [here](https://joinpeertube.org/instances#instances-list) and once you have a prefered instance then you can use [PeerTubeify](https://gitlab.com/Cha_deL/peertubeify) to automaticaly redirect any of the above links to your chosen instance. It also allows redirecting any YouTube video to PeerTube automatically when availlable.
 # About this
 
 This list is compiled by [Niquarl](https://wheretofind.me/@niquarl?tag=fediverse) with help from you! It is a work-in-progress. Please do not consider this the definite list of what's actually worth checking out on Peertube. If for whatever reason you do not want to be publicly listed, just contact me and I will take you off.
