@@ -59,6 +59,8 @@ Hoping to create a somewhat complete list of all quality stuff on the PeerTube f
 
 [techlore@tube.privacytools.io](https://tube.privacytools.io/accounts/techlore)
 
+[copyme_channel@tilvids.com](https://tilvids.com/video-channels/copyme_channel/)
+
 ## Other
 
 [divert@peertube.social](https://peertube.social/accounts/divert/video-channels)
