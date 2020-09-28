@@ -27,6 +27,8 @@ Hoping to create a somewhat complete list of all quality stuff on the PeerTube f
 
 [passesauvage_channel@skeptikon.fr](https://skeptikon.fr/video-channels/passesauvage_channel/)
 
+[snstp_channel@hitchtube.fr](https://hitchtube.fr/video-channels/snstp_channel/)
+
 ## English
 
 [gnome@peertube.video](https://peertube.video/accounts/gnome/video-channels)
