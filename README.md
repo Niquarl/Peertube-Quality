@@ -1,3 +1,4 @@
+Please go to  https://codeberg.org/niquarl/pages
 # Peertube-Quality
 
 Hoping to create a somewhat complete list of all quality stuff on the PeerTube federated network. I don't judge the instance where the account is hosted but the video content from that account. In this spirit, I shall give the username (linked to easily go to their instance). There is no question that this list is subjective, I try to note the quality of video and audio but also the content of the video too. If you have any suggestions, please open a new issue or if you do not have a github account [DM via mastodon](https://mastodon.social/@niquarl).
