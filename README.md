@@ -80,6 +80,8 @@ Framasoft (the people behind Peertube) consider free software political. I agree
 
 [jef_rlp@peertube.social](https://peertube.social/accounts/jef_rlp/video-channels)
 
+[pcf@video.pcf.fr](https://video.pcf.fr/accounts/pcf/video-channels) (Need to add)
+
 
 # Choose your instance
 
