@@ -30,6 +30,8 @@ Hoping to create a somewhat complete list of all quality stuff on the PeerTube f
 
 [snstp_channel@hitchtube.fr](https://hitchtube.fr/video-channels/snstp_channel/)
 
+[pillavoine@peertube.social](https://peertube.social/accounts/pillavoine/about/)
+
 ## English
 
 [gnome@peertube.video](https://peertube.video/accounts/gnome/video-channels)
